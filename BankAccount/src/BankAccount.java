@@ -12,7 +12,7 @@ public class BankAccount {
         this.email = email;
         this.phoneNumber = phoneNumber;
     }
-    
+
 
     public void depositFunds(double depositAmount) {
         accountBalance +=depositAmount;
